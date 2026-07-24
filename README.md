@@ -34,7 +34,7 @@ I take on selected engagements involving:
 * Technical design and implementation of complex backend products
 * Diagnosis and modernization of difficult existing systems
 
-[Discuss a project →](amk9978@gmail.com)
+[Discuss a project](amk9978@gmail.com)
 
 
 [LinkedIn](https://linkedin.com/in/amk9978) · [Blog](https://amirkarimi.substack.com/)
