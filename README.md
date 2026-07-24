@@ -6,6 +6,14 @@ Over the past eight years, I have worked on high-traffic products serving 50M+ u
 
 My public work includes merged contributions to Django and LangChainGo. Most of my recent engineering work lives in private company repositories with private accounts, so the projects below are selected examples of how I approach architecture, performance, reliability, and implementation.
 
+## Core Technologies
+- Python
+- Go
+- PostgreSQL
+- AWS
+- Docker & Kubernetes
+- Kafka
+
 ## Selected Work
 
 * **Guardian** — A Go-based microkernel for extensible LLM guardrails, quota enforcement, and policy plugins.
