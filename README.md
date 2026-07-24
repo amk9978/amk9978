@@ -1,38 +1,32 @@
 # Amir Karimi
 
-Senior Backend and AI Engineer working on distributed systems,
-developer infrastructure and production AI applications.
+I build infrastructure, backend, and AI systems that have to remain reliable under real traffic, operational complexity, and imperfect requirements.
 
-Most of my recent production work has taken place in private company
-repositories. This profile highlights selected public projects and
-open-source contributions.
+Over the past eight years, I have worked on high-traffic products serving 50M+ users, led backend engineers, improved production throughput, and built systems across distributed services, developer infrastructure, and applied AI.
 
-## Selected Projects
+My public work includes merged contributions to Django and LangChainGo. Most of my recent engineering work lives in private company repositories with private accounts, so the projects below are selected examples of how I approach architecture, performance, reliability, and implementation.
 
-### Guardian
-Extensible Go microkernel for LLM guardrails, quota enforcement and
-policy plugins over HTTP and gRPC.
+## Selected Work
 
-### People Match Engine
-Graph- and embedding-based professional matching system built with
-FastAPI, Redis and FAISS.
-
-### Rate Limiter
-Distributed rate-limiting implementations and experiments using Go
-and Redis.
+* **Guardian** — A Go-based microkernel for extensible LLM guardrails, quota enforcement, and policy plugins.
+* **People Match Engine** — A graph- and embedding-based system for matching professionals using FastAPI, FAISS, and Redis.
 
 ## Open Source
 
-- **Django:** Implemented URL-pattern validation for unmatched angle
-  brackets and improved `makemigrations` output with operation-specific
-  symbols.
-- **LangChainGo:** Implemented `FewShotPrompt`, including test coverage.
+* **Django** — Added URL-pattern validation and improved the usability of migration output.
+* **LangChainGo** — Implemented `FewShotPrompt` with test coverage.
 
-## Current Interests
+## Consulting and Contract Work
 
-Distributed systems · AI infrastructure · developer tooling ·
-graph-based systems · production LLM applications
+I take on selected engagements involving:
 
-## Links
+* Backend architecture and distributed systems
+* Performance, scalability, and reliability reviews
+* Production AI and LLM infrastructure
+* Technical design and implementation of complex backend products
+* Diagnosis and modernization of difficult existing systems
 
-[LinkedIn](https://linkedin.com/in/amk9978) · [Résumé](https://github.com/amk9978/amk9978/resume_AmirKarimi.pdf) · [Blog](https://amirkarimi.substack.com/)
+[Discuss a project →](amk9978@gmail.com)
+
+
+[LinkedIn](https://linkedin.com/in/amk9978) · [Blog](https://amirkarimi.substack.com/)
