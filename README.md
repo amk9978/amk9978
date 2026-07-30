@@ -21,8 +21,8 @@ My public work includes merged contributions to Django and LangChainGo. Most of 
 
 ## Open Source
 
-* **Django**: Added URL-pattern validation and improved the usability of migration output.
-* **LangChainGo**: Implemented `FewShotPrompt` with test coverage.
+* **Django**: Added URL-pattern validation, improved the usability of migration output, and made `makemigrations` informative (whenever you hit that command, you see my work!).
+* **LangChainGo**: Implemented `FewShotPrompt` and `Constitutional AI` with test coverage.
 
 ## Consulting and Contract Work
 
