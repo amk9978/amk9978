@@ -1,7 +1,7 @@
 # Amir Karimi
 
+# I've changed my handle to amirimi. Visit my GitHub profile at **[amirimi](https://github.com/amirimi)**
 
-# I've changed my handle to amirimi. Visit my GitHub profile at **[amirimi](https://github.com/amirimi)
 
 Over the past eight years I have worked on high-traffic products serving 50M+ users, led backend engineers, improved production throughput, and built systems across distributed services, developer infrastructure, and applied AI. Most recently that meant a centralized LLM gateway handling 400K+ requests/day with per-team attribution, quotas and cost governance, and an event-sourced AWS provisioning platform that automated isolated environments for internal product launches.
 
@@ -11,10 +11,10 @@ Most of that work lives in private company repositories. The projects and merged
 
 ## Selected Work
 
-* **[Guardian](https://github.com/amk9978/Guardian)**: A Go microkernel for extensible LLM guardrails, quota enforcement, and policy plugins.
-* **[ContributorCompass](https://github.com/amk9978/ContributorCompass)**: Finds the open-source projects where your skills, growth, and community impact align.
-* **[People Match Engine](https://github.com/amk9978/Match-Engine)**: Graph- and embedding-based matching of professionals with FastAPI, FAISS, and Redis.
-* **[RateLimiter](https://github.com/amk9978/RateLimiter)**: Sliding-window and leaky-bucket rate limiting in Go, backed by Redis.
+* **[Guardian](https://github.com/amirimi/Guardian)**: A Go microkernel for extensible LLM guardrails, quota enforcement, and policy plugins.
+* **[ContributorCompass](https://github.com/amirimi/ContributorCompass)**: Finds the open-source projects where your skills, growth, and community impact align.
+* **[People Match Engine](https://github.com/amirimi/Match-Engine)**: Graph- and embedding-based matching of professionals with FastAPI, FAISS, and Redis.
+* **[RateLimiter](https://github.com/amirimi/RateLimiter)**: Sliding-window and leaky-bucket rate limiting in Go, backed by Redis.
 
 ## Open Source
 
